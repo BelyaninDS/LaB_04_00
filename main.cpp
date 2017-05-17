@@ -87,7 +87,7 @@ int main(){
     print_in_binary(&second_op,sizeof(second_op));
     cout<<" = ";
     print_in_binary(&result,sizeof(result));
-    
+
     return 0;
 }
 
